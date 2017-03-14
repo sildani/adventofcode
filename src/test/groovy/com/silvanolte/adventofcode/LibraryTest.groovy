@@ -1,3 +1,5 @@
+package com.silvanolte.adventofcode
+
 import org.junit.Test
 
 class LibraryTest {
